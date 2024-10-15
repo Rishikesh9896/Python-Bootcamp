@@ -1,5 +1,5 @@
 name = "Alpha Intern"
-age = 99; 
+age = 99
 print(f"Hii my name is {name} and my age is {age}")
 
 

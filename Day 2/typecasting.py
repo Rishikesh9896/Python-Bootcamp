@@ -6,3 +6,4 @@ print(result)
 z = '10'
 b = int(z)
 print(type(b))
+

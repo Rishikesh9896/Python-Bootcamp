@@ -9,7 +9,8 @@ print(p)
 print(q)
 print(r)
 
-a = 44;
-A = 22;
+a = 44;                     #single line comments
+A = 22; 
 print(a)
 print(A)
+
